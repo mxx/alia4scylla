@@ -9,7 +9,7 @@ Cassandra/ScyllaDB CQL3 client for Clojure wrapping [java-driver](https://github
 ## What's in the box?
 
 * Built on an **extremely solid base**,
-  [datastax/java-driver](https://github.com/datastax/java-driver),
+  [java-driver](https://github.com/scylladb/java-driver),
   based on the new **CQL native protocol**
 * **Simple API** with a minimal learning curve
 * **Great performance**
